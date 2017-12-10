@@ -1,0 +1,13 @@
+
+=== system shows blank screen
+1. check the RAM is seated
+2. Try any other RAM
+3. still the same problem check the video or graphics card , if any
+4. if no graphics card and problem stiil changing it clear your CMOS by removing battery
+6. still problem , check the processor heat sink
+7. still problem then suggesting checking motherboard and processor
+8. Swap monitors to ensure it's not the monitor or the cables.
+
+
+
+
